@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #0766e0ff
+}
+
+/* CSS HEX */
+--midnight-blue: #07004dff;
+--flickr-blue: #0766e0ff;
+--medium-aquamarine: #42e2b8ff;
+--dutch-white: #f3dfbfff;
+--light-coral: #eb8a90ff;
+
+/* CSS HSL */
+--midnight-blue: hsla(245, 100%, 15%, 1);
+--flickr-blue: hsla(214, 94%, 45%, 1);
+--medium-aquamarine: hsla(164, 73%, 57%, 1);
+--dutch-white: hsla(37, 68%, 85%, 1);
+--light-coral: hsla(356, 71%, 73%, 1);
